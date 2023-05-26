@@ -1,0 +1,13 @@
+{
+	"berseem": {
+		"CropGrownIn": "UP,MP,PB,HR",
+		"climateRequirement": "cool,tropical,subtropical",
+		"waterRequirement": "60 to 75",
+		"soilRequirement": "clay,clay & loamy,well drained,rich humus,high calcium and phosphorus,sandy & loamy",
+		"rainfallRequirement": "30 to 75",
+		"totalGrowingPeriod": "NA",
+		"temperatureRequirement": "25 to 27",
+		"productionTechnique": "fine seedbed",
+		"contains": "protein"
+	}
+}

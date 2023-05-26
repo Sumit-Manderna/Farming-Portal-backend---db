@@ -1,0 +1,12 @@
+{
+	"jute": {
+		"CropGrownIn": "AS,OD,BR,WB",
+		"climateRequirement": "hot,humid",
+		"waterRequirement": "45 to 55",
+		"soilRequirement": "alluvial,sandy & loamy,clay & loamy",
+		"rainfallRequirement": "100 to 150",
+		"totalGrowingPeriod": "90",
+		"temperatureRequirement": "24 to 38",
+		"postProductionTechnique": "Jute crop can be harvested from 100 to 110 DAS but can be extended from 120 - 135 DAS depending on local cropping systems. Jute plants are left in the field for 3 - 4 days for leaf shedding. Then thick and thin plants are sorted out and bundled in convenient size. Green plant weight yield is 45-50 t/ha. Fibre yield is 2.0-2.5 t/ha."
+	}
+}
